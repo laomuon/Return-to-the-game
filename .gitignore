@@ -1,0 +1,5 @@
+.cache/*
+.settings/*
+.cproject
+.mxproject
+.project
